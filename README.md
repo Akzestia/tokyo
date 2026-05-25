@@ -7,7 +7,7 @@
 </div>
 
 
-### Make you c++ code look nice ^~^
+### Make your c++ code look nice ^~^
 
 ```c++
 // Without tokyo ~_~
