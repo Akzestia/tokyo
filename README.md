@@ -43,7 +43,7 @@ just
 just xpp ON && just b
 ```
 
-Install globaly
+Install globally
 
 ```sh
 just i
