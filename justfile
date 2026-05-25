@@ -21,6 +21,9 @@ export SDKROOT := if os() == "macos" {
 
 default: xpp b
 
+i:
+    cmake --install build
+
 xpp DEMO="OFF":
     cmake -S . -B build -G Ninja -DTOKYO_BUILD_DEMO={{DEMO}}
 
