@@ -25,3 +25,26 @@ tokyo {
     // Do smth
 }
 ```
+
+### Install
+
+Clone repo
+
+```sh
+gh repo clone Akzestia/tokyo
+cd tokyo
+```
+
+Build 
+
+```sh
+just
+# Or with demo
+just xpp ON && just b
+```
+
+Install globaly
+
+```sh
+just i
+```
