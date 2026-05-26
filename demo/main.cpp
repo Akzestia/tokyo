@@ -3,5 +3,5 @@
 
 tokyo {
     std::println("東京へよこそ！ ^~^");
-    return 0;
+    _ 0;
 }
