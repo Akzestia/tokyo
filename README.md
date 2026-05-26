@@ -7,7 +7,7 @@
 </div>
 
 
-### Make you c++ code look nice ^~^
+### Make your c++ code look nice ^~^
 
 ```c++
 // Without tokyo ~_~
@@ -43,7 +43,7 @@ just
 just xpp ON && just b
 ```
 
-Install globaly
+Install globally
 
 ```sh
 just i
