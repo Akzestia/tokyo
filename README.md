@@ -78,13 +78,13 @@ cd tokyo
 Build 
 
 ```sh
-just
+j
 # Or with demo
-just xpp ON && just b
+j xpp ON && j b
 ```
 
 Install globally
 
 ```sh
-just i
+j i
 ```
