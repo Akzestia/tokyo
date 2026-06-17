@@ -19,7 +19,9 @@ target_include_directories(tokyo INTERFACE
 target_sources(tokyo INTERFACE
     FILE_SET HEADERS
     BASE_DIRS ${CMAKE_CURRENT_SOURCE_DIR}
-    FILES     ${CMAKE_CURRENT_SOURCE_DIR}/tokyo/tokyo_main.hxx
+    FILES     
+        ${CMAKE_CURRENT_SOURCE_DIR}/tokyo/tokyo_main.hxx
+        ${CMAKE_CURRENT_SOURCE_DIR}/tokyo/tokyo_types.hxx
 )
 
 if(TOKYO_BUILD_DEMO)
